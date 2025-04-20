@@ -38,6 +38,7 @@ class _SahYatriAppState extends State<SahYatriApp> {
         toggleTheme: toggleTheme,
         themeMode: themeMode,
       ),
+      
       debugShowCheckedModeBanner: false,
     );
   }
