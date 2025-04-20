@@ -5,15 +5,15 @@
 *.swp
 .DS_Store
 .atom/
-.android/
-.ios/
-.linux/
-.macos/
-.test/
-.web/
-.windows/
-.analysis_options.yaml
-.pubspec.lock
+# android/
+# ios/
+# linux/
+# macos/
+# test/
+# web/
+# windows/
+# analysis_options.yaml
+# pubspec.lock
 .build/
 .buildlog/
 .history
